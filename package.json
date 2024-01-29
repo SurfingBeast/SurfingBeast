@@ -1,0 +1,18 @@
+{
+  "name": "surfing_beast",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SurfingBeast/SurfingBeast"
+  },
+  "keywords": [],
+  "license": "",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^13.5.1",
+    "mineflayer": "^2.15.1"
+  }
+}
